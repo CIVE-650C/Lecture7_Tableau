@@ -1,0 +1,15 @@
+Direction,coded_direction,IWZ,Latitude,Longitude,Name,Route,Group,Group_new,ID,Linear-Reference,new,ProjectName,Portable,APS,Device
+WB,2,0,41.590177,-90.370569,IWZ3078-WB,I-80,6d,Group 6d,35,306,0,Project 6d,1,1,Sensor
+WB,2,0,41.59495,-90.381469,IWZ3088-WB,I-80,6d,Group 6d,36,305.5,0,Project 6d,1,1,Sensor
+WB,2,0,41.597199,-90.40226,IWZ3068-WB,I-80,6d,Group 6d,37,304,0,Project 6d,1,1,Sensor
+WB,2,0,41.597998,-90.425042,IWZ3077-WB,I-80,6d,Group 6d,38,303,0,Project 6d,1,1,Sensor
+WB,2,0,41.597789,-90.434393,IWZ3542-WB,I-80,6d,Group 6d,39,302,0,Project 6d,1,1,Sensor
+WB,2,0,41.597322,-90.463733,IWZ3079-WB,I-80,6d,Group 6d,40,301,0,Project 6d,1,0,Sensor
+WB,2,0,41.596622,-90.507079,IWZ3076-WB,I-80,6d,Group 6d,41,299,0,Project 6d,1,0,Sensor
+EB,1,0,41.58992,-90.371488,IWZ3078-EB,I-80,6d,Group 6d,42,306,0,Project 6d,1,0,Sensor
+EB,1,0,41.594328,-90.381552,IWZ3088-EB,I-80,6d,Group 6d,43,305.5,0,Project 6d,1,0,Sensor
+EB,1,0,41.596528,-90.402363,IWZ3068-EB,I-80,6d,Group 6d,44,304,0,Project 6d,1,0,Sensor
+EB,1,0,41.597268,-90.425021,IWZ3077-EB,I-80,6d,Group 6d,45,303,0,Project 6d,1,0,Sensor
+EB,1,0,41.59723,-90.434399,IWZ3542-EB,I-80,6d,Group 6d,46,302,0,Project 6d,1,0,Sensor
+EB,1,0,41.596726,-90.463715,IWZ3079-EB,I-80,6d,Group 6d,47,301,0,Project 6d,1,1,Sensor
+EB,1,0,41.596027,-90.507076,IWZ3076-EB,I-80,6d,Group 6d,48,299,0,Project 6d,1,1,Sensor
